@@ -1,2 +1,1 @@
-print("Hello git This is my firt python")
-print("Hello this is second edit")
+print("Hello git This is a little new for me right now")
