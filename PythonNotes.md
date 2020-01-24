@@ -1,4 +1,4 @@
-**NUMBER**
+**NUMBERS**
 **********
 #Modulo
  7 mod 4 = 7 % 4 in python
@@ -115,7 +115,7 @@ i.e. --> *X ="Hey There Please Split My Sausage"*
 #output --> *['Hey', 'There', 'Please', 'Split', 'My', 'Sausage']*
 
 **Using the split function to split base on characters**
-Note: This helps you to create a list out of a string and will split a string based on a letter or whitespace. 
+Note: This helps you to create a list out of a string and will split a string based on a letter or whitespace.
 i.e. --> *X ="Hey There Please Split My Sausage"*
      --> *print(X.split(e))*
 #output --> *['H', 'y Th', 'r', ' Pl', 'as', ' Split My Sausag', '']*
